@@ -1,11 +1,11 @@
 <h1><img src="img/meow_coffee.png" width="30"/> Hey there! I'm Yang Lyu </h1>
 
 <p>
-  I'm a Data Scientist and Machine Learning Engineer. 
+  I'm a </b>Data Scientist and Machine Learning Engineer.
   
   I specialize in building GenAI applications, working with LLMs, and training large-scale ML/DL models. 
   
-  Previously, I was an experimental particle physics researcher at <b>Lawrence Berkeley National Laboratory</b>.
+  Previously, I was an experimental particle physics researcher at Lawrence Berkeley National Laboratory.
 </p>
 
 ### My Tech Stack
