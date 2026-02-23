@@ -5,7 +5,7 @@
   
   I specialize in building GenAI applications, working with LLMs, and training large-scale ML/DL models. 
   
-  Previously, I was an experimental particle ahysics researcher at <b>UC Berkeley</b>.
+  Previously, I was an experimental particle physics researcher at <b>Lawrence Berkeley National Laboratory</b>.
 </p>
 
 ### My Tech Stack
