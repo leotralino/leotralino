@@ -5,7 +5,7 @@
   
   I specialize in building GenAI applications, working with LLMs, and training large-scale ML/DL models. 
   
-  Previously, I was an experimental particle physics researcher at Lawrence Berkeley National Laboratory.
+  Previously, I was an experimental particle physics researcher at Lawrence Berkeley National Laboratory working on the [IceCube Neutrino Observatory](https://icecube.wisc.edu/).
 </p>
 
 ### My Tech Stack
