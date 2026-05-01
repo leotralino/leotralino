@@ -68,6 +68,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/leotralino/arxiv_recommender?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/leotralino/arxiv_recommender?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/leotralino/vegedog_badminton_webapp"><b>vegedog_badminton_webapp</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/leotralino/vegedog_badminton_webapp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/leotralino/vegedog_badminton_webapp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/leotralino/vegedog_badminton_webapp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/leotralino/vegedog_badminton_webapp?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
